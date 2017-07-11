@@ -1,1 +1,1 @@
-This is the first line in File3.txt
+This is the same and first line in File3.txt

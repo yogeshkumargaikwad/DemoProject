@@ -1,0 +1,1 @@
+This is the same and first line in File3.txt

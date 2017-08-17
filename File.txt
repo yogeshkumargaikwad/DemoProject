@@ -1,2 +1,3 @@
 Welcome To SourceTree.
 Not to commit in Master.
+I have to add line to Master.
